@@ -211,7 +211,12 @@ nav a.selected, nav a:hover {
     color: #32673f;
 }
 
-
+#googleForm {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px
+}
 
 /*****************************
 BODY
